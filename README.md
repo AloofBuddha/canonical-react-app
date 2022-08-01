@@ -1,3 +1,6 @@
+# About
+This is my minimal take on create-react-app. No additional packages have been imported from npm. This uses React 16.8+ so it utlizes fucntional components and hooks.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
